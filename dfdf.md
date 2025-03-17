@@ -11,5 +11,6 @@ La siguiente lista tiene como objetivo ser un ayuda memoria y lista de comprobac
 
 ### Lista de tareas
 - [ ] Corroborar fechas en todas las cámaras 
-- [ ] Renombrar/acomodar carpetas [[Tutorial Traptagger 1 - Preparación datos#1.2 - Renombrado de archivos|Enlace]]
+- [ ] Renombrar/acomodar carpetas [[xdfddddd|Enlace]] ddd
+- [ ] 
 - [ ] Importar imágenes [[Tutorial traptagger 2 - Subida datos|Enlace]]
